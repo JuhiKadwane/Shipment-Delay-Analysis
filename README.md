@@ -111,4 +111,4 @@ Shipment-Delay-Analysis/
 
 ## 👤 Author
 Juhi Kadwane  
-Aspiring Business Analyst / Data Analyst (Logistics & Analytics)
+Aspiring  Data Analyst / Business Analyst (Logistics & Analytics)
